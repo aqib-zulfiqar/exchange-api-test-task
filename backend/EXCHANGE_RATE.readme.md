@@ -102,3 +102,10 @@ curl "http://localhost:8080/api/crypto/rates?forceRefresh=true"
 - All prices are returned with decimal precision
 - Timestamps are in ISO 8601 format
 - 24-hour change is in percentage
+
+## How to run
+
+```bash
+npm install
+npm run start
+```
